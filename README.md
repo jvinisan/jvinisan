@@ -6,4 +6,4 @@ Here you can find some personal projects or some new stuffs that I have been try
 
 So, you welcome to my profile! live long and prosper. 🖖
 
-<img src="https://media.giphy.com/media/IL4iTvQH0MjS/giphy.gif" width="100" height="100" />
+<img src="https://media.giphy.com/media/IL4iTvQH0MjS/giphy.gif" width="200"/>
