@@ -1,13 +1,17 @@
-<h1> hi everyone! 😄🖖 I'm João Vinícius!</h1>
+<h1> hi everyone! 😄🖖 I'm João Vinícius! </h1>
 
 <p>I'm an Star Trek fan, and now my jorney is improve my habilities in technologies bellow:</p>
 
-<p> 
-  
-  
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) <br />
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) <br />
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) <br />
 
-</p>
+<p> I used to study some database. They are: </p> 
 
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+<em> (I know, I'll try to study more these subjects 😆) </em>
 
 <p> Here you can find some personal projects or some new stuffs that I have been trying to learn. We can do a collab too, just talk to me in this e-mail adress:</p>
 
