@@ -6,7 +6,7 @@ Here you can find some personal projects or some new stuffs that I have been try
 
 So, you welcome to my profile! live long and prosper. 🖖
 
-![Alt Text](https://giphy.com/gifs/rip-leonard-nimoy-gif-IL4iTvQH0MjS.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 <!---
 jvinisan/jvinisan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
