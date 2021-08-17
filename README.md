@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<em> (I know, I'll try to study more these subjects 😆) </em>
+<em> (I'd try to study more these subjects 😆) </em>
 
 <p> Here you can find some personal projects or some new stuffs that I have been trying to learn. We can do a collab too, just talk to me in this e-mail adress:</p>
 
