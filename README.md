@@ -23,8 +23,8 @@
 
 <h2> My stats here! 📊</h2>
 
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvinisan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvinisan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<p> So, welcome to my profile! live long and prosper. 🌈🖖</p>
+<p> So, welcome to my profile! 🌈🖖</p>
 
 ![Spock's Gif](https://media.giphy.com/media/IL4iTvQH0MjS/giphy.gif)
