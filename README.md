@@ -2,9 +2,9 @@
 
 <p>I'm an Star Trek fan, and now my jorney is improve my habilities in technologies bellow:</p>
 
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) <br />
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) <br />
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) <br />
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <p> I used to study some database. They are: </p> 
 
