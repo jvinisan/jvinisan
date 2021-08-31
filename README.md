@@ -2,15 +2,13 @@
 
 <p>I'm an Star Trek fan, and now my jorney is improve my habilities in technologies bellow:</p>
 
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<p>Do you like Frameworks? I do. If you're curious, I had been studied these ones:</p>
+<p>Do you like Frameworks? I do. If you're curious, I had been studied these one:</p>
 
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 <p> I used to study database. It is: </p> 
