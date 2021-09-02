@@ -27,7 +27,7 @@
 
 <h2> My stats here! 📊</h2>
 
-[![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvinisan)](https://github.com/anuraghazra/github-readme-stats)
+[![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvinisan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p> So, welcome to my profile! 🌈🖖</p>
 
