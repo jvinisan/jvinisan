@@ -7,12 +7,6 @@
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<p> I used to study database. It is: </p> 
-
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<em> (I'd try to study more these subjects 😆) </em>
-
 <p> Here you can find some personal projects or some new stuffs that I have been trying to learn. We can do a collab too, just talk to me in this e-mail adress:</p>
 
 <a href="mailto:joaoviniusdesouzasilva@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
