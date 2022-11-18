@@ -1,8 +1,8 @@
-<h1> hi everyone! 😄</h1>
+<h1> hi everyone! 🖖🏻</h1>
 
-<p>I'm an Star Wars fan improving my programming habilities,</p>
+<p>I'm an Star Wars and Star Trek fan improving my programming habilities,<br/>
 
-<p>Here you can find personal projects or new stuffs that I have been studying.
+Here you can find personal projects or new stuffs that I have been studying.</p>
 
 <p>You can find more about me on LikedIn: </p>
 
